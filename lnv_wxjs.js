@@ -1,5 +1,5 @@
 /**
- * 图片预加载
+ * 微信网关SDK
  */
 (function() {
     var root = (typeof self == 'object' && self.self == self && self) ||
