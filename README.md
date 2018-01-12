@@ -12,8 +12,8 @@
 初始化微信JSSDK，并且设置微信分享
    ```js
     initWechatShare({
-        title: '联想微视频服务专区',
-        desc: '联想微视频服务专区',
+        title: '分享标题',
+        desc: '分享描述',
         link: window.location.href
      })
 ```
